@@ -1,0 +1,44 @@
+body {
+  overflow-x: hidden;
+  direction: rtl;
+}
+
+.owl-carousel {
+  direction: ltr;
+}
+
+.owl-carousel .owl-nav,
+.owl-carousel .owl-dots,
+.owl-carousel .owl-item {
+  direction: rtl;
+}
+
+.bootstrap-select .dropdown-toggle .filter-option {
+  text-align: right;
+}
+
+.list-unstyled {
+  padding-right: 0;
+}
+
+.services-one__btn span {
+  margin-right: 10px;
+  margin-left: 0;
+}
+
+.team-one__social {
+  padding-right: 13px;
+}
+
+.team-one__img::before {
+  background-image: linear-gradient(0deg, rgb(26, 20, 20) 0%, rgba(26, 20, 20, 0) 100%);
+}
+
+.section-title__title span::before {
+  background-image: url("../images/shapes/section-title-shape-rtl.png");
+}
+
+.awards-one__shape-2 {
+  left: 50%;
+  right: auto;
+}

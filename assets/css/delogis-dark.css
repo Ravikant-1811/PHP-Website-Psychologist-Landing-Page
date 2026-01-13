@@ -1,0 +1,573 @@
+body,
+body.boxed-wrapper .page-wrapper,
+.main-menu__bottom-inner,
+.services-one__single,
+.services-four--page.services-four,
+.awards-one__single,
+.why-choose-one__list li .icon,
+.about-two__therapy-btn,
+.faq-one-accrodion .accrodion,
+.services-two__title-box::before,
+.why-choose-three__progress .bar,
+.why-choose-two__text-box,
+.main-slider-three,
+.main-slider-three .item,
+.cart-page,
+.sidebar__post-list li:hover,
+.sidebar__search-form input[type=search],
+.pricing-one__shape-2,
+.contact-one__contact-box,
+.product-description,
+.blog-one__content-top {
+  background-color: #1f1919;
+}
+
+.comment-form__input-box textarea,
+.comment-form__input-box input[type=text],
+.comment-form__input-box input[type=email],
+.sidebar__comments,
+.sidebar__tags,
+.sidebar__cases,
+.sidebar__category,
+.sidebar__post,
+.sidebar__search,
+.blog-sidebar__provide-services,
+.blog-sidebar__bottom-box,
+.google-map-two,
+.contact-three,
+.feature-two__icon,
+.feature-two__hover-icon,
+.about-three__shape-1,
+.services-three__btn,
+.services-three__content,
+.services-three__bg-box,
+.feature-three__btn a,
+.pricing-one__main-tab-box .tab-buttons .tab-btn span,
+.pricing-one__single,
+.cases-three__content,
+.why-choose-three__shape-1,
+.why-choose-three__right,
+.why-choose-three,
+.blog-two__comment-and-btn,
+.testimonial-two__single,
+.testimonial-two__carousel.owl-theme .owl-nav .owl-prev,
+.testimonial-two__carousel.owl-theme .owl-nav .owl-next,
+.testimonial-two__ratting i,
+.tabs-one__inner .tab-buttons .tab-btn span:before,
+.why-choose-two,
+.services-two__content:before,
+.about-two__social a,
+.about-two__progress .bar,
+.about-two__therapy::before,
+.main-menu .demo-one__card,
+.counter-one__bottom,
+.cta-two__icon,
+.faq-one,
+.contact-two__contact-box,
+.google-map,
+.main-menu__logo,
+.main-menu__logo a,
+.main-menu__top-left,
+.main-menu__wrapper-inner-content:before,
+.main-menu__call-icon,
+.stricky-header.main-menu,
+.about-one__experience-box,
+.feature-one__content,
+.services-one,
+.awards-one__wrap,
+.testimonial-one__ratting i,
+.why-choose-one__single,
+.contact-one,
+.blog-one__content {
+  background-color: #272121;
+}
+
+.testimonial-two__ratting i,
+.cta-two__icon,
+.main-menu__contact-list li .text p,
+.main-menu__contact-list li .text p a,
+.main-menu__top-menu li a,
+.main-menu .main-menu__list > li > a,
+.stricky-header .main-menu__list > li > a,
+.main-menu__call-sub-title,
+.about-one__experience p,
+.about-one__experience-points-text,
+.about-one__sign p,
+.services-one__right-text,
+.services-one__text,
+.services-one__btn,
+.services-one__btn span,
+.testimonial-one__ratting-title,
+.testimonial-one__text,
+.contact-one__form-icon i,
+.blog-one__comment a,
+.blog-one__btn a,
+.blog-one__btn a span,
+.blog-one__content-sub-title {
+  color: #978e8e;
+}
+
+.main-slider-three .owl-theme .owl-nav [class*=owl-],
+.order_table_head th,
+.your_order h2,
+.billing_title h2,
+.cart-total li span:first-child,
+.cart-table .cross-icon i:before,
+.cart-table h3 a,
+.cart-table thead th,
+.product-details__social .title h3,
+.product-details__title,
+.product-details__quantity-title,
+.product-description__list ul li p,
+.product-description__title,
+.review-one__title h3,
+.review-one__content-top .info h2,
+.review-form-one__title,
+.comment-one__title,
+.comment-form__title,
+.comment-one__content h3,
+.blog-details__tags span,
+.blog-details__title,
+.sidebar__search-form button[type=submit],
+.sidebar__comments-text-box p span,
+.sidebar__post-content h3 a,
+.sidebar__title,
+.blog-sidebar__provide-services-title a,
+.blog-sidebar__title a,
+.case-details h3,
+.case-details__info-list li p,
+.case-details__pagination li a,
+.team-details__points li h4,
+.team-details__points-title,
+.team-details__title,
+.certificate-one__title,
+.experience-one__progress-title,
+.experience-one__title,
+.services-details h1,
+.services-details h2,
+.services-details h3,
+.services-details h4,
+.services-details h5,
+.services-details h6,
+.services-details__book-top .content h4 a:hover,
+.main-menu-three__cart,
+.main-menu-three__search,
+.main-menu-three__call-number a,
+.main-slider-three__title,
+.main-slider-three__founder-name,
+.feature-two__icon span,
+.feature-two__hover-icon span,
+.about-three__points-list li .text p,
+.services-three__title a,
+.feature-three__btn a,
+.pricing-one__main-tab-box .tab-buttons .tab-btn span,
+.pricing-one__price,
+.cases-three__points li p span,
+.cases-three__title a,
+.why-choose-three__progress-title,
+.blog-two__comment a:hover span,
+.blog-two__comment a:hover,
+.testimonial-two__client-content h3,
+.testimonial-two__carousel.owl-theme .owl-nav .owl-prev,
+.testimonial-two__carousel.owl-theme .owl-nav .owl-next,
+.tabs-one__inner .tab-buttons .tab-btn.active-btn span,
+.why-choose-two__text-box p,
+.why-choose-two__video-title,
+.services-two__title a,
+.about-two__therapy-btn,
+.about-two__social a,
+.about-two__sign h4,
+.about-two__progress-title,
+.about-two__therapy-title,
+.counter-one__text p,
+.faq-one-accrodion .accrodion.active .accrodion-title h4::before,
+.faq-one-accrodion .accrodion-title h4,
+.faq-one__points li .content h3,
+.main-menu__call-number a,
+.main-menu__search,
+.main-menu__cart,
+.about-one__curved-circle-box .curved-circle,
+.section-title__title,
+.about-one__experience h3,
+.about-one__experience-points li .text p,
+.about-one__sign h5,
+.feature-one__title a,
+.services-one__title a,
+.awards-one__title,
+.testimonial-one__client-name h4,
+.why-choose-one__list li .title h3 a,
+.contact-one__title,
+.blog-one__content-title a {
+  color: var(--delogis-white);
+}
+
+.main-menu .main-menu__list > li.current > a,
+.main-menu .main-menu__list > li:hover > a,
+.stricky-header .main-menu__list > li.current > a,
+.stricky-header .main-menu__list > li:hover > a {
+  color: var(--delogis-white);
+  text-shadow: 0.05px 0 0 rgba(255, 255, 255, 0.8);
+}
+
+.pricing-one__shape-2::before {
+  border-top-color: #1f1919;
+}
+
+.contact-two__contact-box::before {
+  border-top-color: #272121;
+}
+
+.main-slider-three__img {
+  mix-blend-mode: normal;
+}
+
+.comment-one__single,
+.sidebar__search-form input[type=search],
+.services-three__btn,
+.cases-three__points,
+.faq-one-accrodion .accrodion {
+  border-color: rgba(var(--delogis-white-rgb), 0.1);
+}
+
+.main-menu-three__search-cart-box:before,
+.testimonial-two__client-info::before,
+.main-menu__search-cart-box:before {
+  background-color: #312b2b;
+}
+
+.about-one__experience-box:before {
+  background-color: #1f1919;
+  border: 1px solid #312b2b;
+}
+
+.about-one__btn:hover {
+  color: var(--delogis-black);
+}
+
+.about-one__btn:before {
+  background-color: var(--delogis-white);
+}
+
+.feature-one__hover-arrow {
+  background-color: var(--delogis-black);
+}
+
+.feature-one__hover-arrow:hover {
+  background-color: var(--delogis-white);
+  color: var(--delogis-black);
+}
+
+.services-one__btn {
+  border-top: 1px solid #312b2b;
+}
+
+.services-one__icon::before {
+  background: rgb(39, 33, 33);
+  background: linear-gradient(90deg, rgba(39, 33, 33, 0) 0%, rgb(39, 33, 33) 80%);
+}
+
+.awards-one__bg {
+  opacity: 0.2;
+  mix-blend-mode: multiply;
+}
+
+.testimonial-one__ratting i {
+  color: #5b4034;
+}
+
+.testimonial-one__carousel.owl-theme .owl-nav .owl-prev,
+.testimonial-one__carousel.owl-theme .owl-nav .owl-next {
+  background-color: rgb(39, 33, 33);
+  color: var(--delogis-white);
+}
+
+.cases-one__bg-box {
+  background-image: linear-gradient(0deg, rgba(31, 25, 25, 0) 0%, rgb(39, 33, 33) 100%);
+}
+
+.cases-one__bg {
+  mix-blend-mode: overlay;
+  opacity: 0.1;
+}
+
+.brand-one__inner {
+  border-top: 1px solid #312b2b;
+}
+
+.main-slider-three__star-one,
+.main-slider-three__star-two,
+.main-slider-three__shape-3 {
+  mix-blend-mode: color-burn;
+  opacity: 0.3;
+}
+
+.main-slider-three__bg,
+.faq-one__bg {
+  mix-blend-mode: color-burn;
+}
+
+.contact-one__shape-1 {
+  opacity: 0.2;
+  mix-blend-mode: color-burn;
+}
+
+.why-choose-three__shape-1 {
+  background-blend-mode: color-burn;
+}
+
+.contact-two__form-input-box input[type=text],
+.contact-one__form-input-box input[type=text] {
+  background-color: #1f1919;
+  color: #978e8e;
+}
+
+.contact-two__form-input-box .bootstrap-select > .dropdown-toggle,
+.contact-one__form-input-box .bootstrap-select > .dropdown-toggle {
+  background-color: #1f1919 !important;
+  color: #978e8e !important;
+}
+
+.blog-one__comment a:hover {
+  color: var(--delogis-base);
+}
+
+.blog-one__comment a:hover span {
+  color: var(--delogis-base);
+}
+
+.blog-one__btn a:hover {
+  color: var(--delogis-base);
+}
+
+.blog-one__btn a:hover span {
+  color: var(--delogis-base);
+}
+
+.contact-one__nummber a:hover {
+  color: var(--delogis-white);
+}
+
+.services-three__bg,
+.why-choose-two__bg,
+.services-one__bg {
+  opacity: 0.3;
+}
+
+.contact-one__form-btn:hover {
+  color: var(--delogis-base);
+}
+
+.contact-one__form-btn:before {
+  background-color: var(--delogis-white);
+}
+
+.why-choose-three__shape-1 {
+  opacity: 0.1;
+}
+
+.google-map__two,
+.google-map__one {
+  filter: grayscale(100%) invert(92%) contrast(83%);
+}
+
+.main-menu-three__wrapper-inner {
+  box-shadow: 0px 10px 60px 0px rgba(255, 255, 255, 0.03);
+}
+
+/*-- Home 4 --*/
+.contact-four__info,
+.services-four__single__rm,
+.services-four__single__shape::before,
+.services-four__single,
+.contact-four__content .contact-one__form-input-box .bootstrap-select > .dropdown-toggle,
+.contact-four__content .contact-one__form-input-box input[type=text],
+.team-two__single__content,
+.about-five__box__icon,
+.main-slider-four__carousel.owl-carousel .owl-nav button,
+.main-slider-four__btn .video-popup,
+.main-header-four.stricky-header,
+.main-header-four__social,
+.demo-one,
+.blog-three__single__date::after,
+.blog-three__list li,
+.blog-three__single__date,
+.blog-three__single__content,
+.brand-two__carousel.owl-carousel .owl-nav button,
+body.home-four-dark {
+  background-color: var(--delogis-black);
+}
+
+.services-four__single__shape,
+.team-two,
+.testimonial-four__single,
+.testimonial-four__carousel.owl-carousel .owl-nav button,
+.why-choose-four__experience__inner,
+.services-four,
+.about-five__box,
+.about-five__content .thm-btn::before,
+.main-header-four .demo-one__card,
+.main-header-five .demo-one__card,
+.main-header-topbar,
+.blog-three__list__rm,
+.blog-three__single__rm,
+.brand-two__carousel.owl-carousel .owl-nav,
+.brand-two,
+.blog-three {
+  background-color: var(--delogis-primary);
+}
+
+.contact-four__info__text,
+.services-four__single__icon,
+.services-four__single__title,
+.about-five__progress__title,
+.team-two__single__hover__iconwrap,
+.team-two__single__name,
+.testimonial-four__carousel.owl-carousel .owl-nav button,
+.why-choose-four__experience__text,
+.about-five__box__icon,
+.about-five__box__title,
+.main-slider-four__btn .video-popup,
+.main-slider-four__carousel.owl-carousel .owl-nav button,
+.main-header-four__social a,
+.main-header-topbar__call,
+.demo-one__title,
+.blog-three__list__rm,
+.blog-three__list__title,
+.brand-two__carousel.owl-carousel .owl-nav button {
+  color: var(--delogis-white);
+}
+
+.main-menu .main-menu__list > li > ul,
+.main-menu .main-menu__list > li > ul > li > ul,
+.stricky-header .main-menu__list > li > ul,
+.stricky-header .main-menu__list > li > ul > li > ul {
+  background-color: var(--delogis-black);
+}
+
+.testimonial-four__single__ratings,
+.testimonial-four__single__text,
+.testimonial-four__single,
+.about-five__box li + li,
+.about-five__image__logo,
+.brand-two__carousel.owl-carousel {
+  border-color: rgba(var(--delogis-white-rgb), 0.1);
+}
+
+.contact-four {
+  background-color: rgba(var(--delogis-primary-rgb), 0.67);
+}
+
+.main-header-topbar__call::after,
+.blog-three__list__rm__border {
+  background-color: rgba(var(--delogis-white-rgb), 0.1);
+}
+
+.megamenu-popup .megamenu-clickable--close span::before,
+.megamenu-popup .megamenu-clickable--close span::after {
+  background-color: var(--delogis-white);
+}
+
+.main-menu .main-menu__list > li > ul > li > a,
+.main-menu .main-menu__list > li > ul > li > ul > li > a,
+.stricky-header .main-menu__list > li > ul > li > a,
+.stricky-header .main-menu__list > li > ul > li > ul > li > a {
+  background-color: transparent;
+}
+
+.about-five__image__shape-one img {
+  opacity: 0.05;
+}
+
+.testimonial-four__single__quote {
+  opacity: 0.1;
+}
+
+.about-five__progress .bar {
+  background-color: var(--delogis-gray);
+}
+
+.contact-four__content .contact-one__form-input-box .bootstrap-select > .dropdown-toggle:before,
+.contact-four__content .contact-one__form-icon i,
+.contact-four__content .contact-one__form-input-box .bootstrap-select > .dropdown-toggle,
+.contact-four__content .contact-one__form-input-box input[type=text] {
+  color: var(--delogis-gray);
+}
+
+.contact-one__form-input-box .bootstrap-select > .dropdown-toggle {
+  background-color: var(--delogis-black) !important;
+  color: var(--delogis-gray) !important;
+}
+
+.main-header-four .main-menu .main-menu__list > li > a,
+.main-header-four.stricky-header .main-menu__list > li > a {
+  color: var(--delogis-gray);
+}
+
+/*-- Home 5 --*/
+.services-five__single,
+.about-six__content .thm-btn--two,
+.main-header-topbar-two::after,
+.testimonial-five__reviews__ratings,
+.why-choose-five__box__icon::after,
+.why-choose-five__info__icon::after,
+body.home-five-dark {
+  background-color: var(--delogis-primary);
+}
+
+.services-five__single__icon,
+.services-five__single__btn__front,
+.feature-six__single,
+.about-six,
+.main-slider-five__overlay,
+.main-slider-five__item,
+.testimonial-five__wrapper,
+.testimonial-five__reviews,
+.why-choose-five__box,
+.why-choose-five__info,
+.blog-four__single__content {
+  background-color: var(--delogis-black);
+}
+
+.about-six__counter__number,
+.services-five__single__icon,
+.services-five__single__title,
+.feature-six__single__title,
+.main-slider-five__title,
+.testimonial-five__single__name,
+.testimonial-five__reviews__ratings,
+.why-choose-five__box__title,
+.why-choose-five__info__text,
+.blog-four__single__title {
+  color: var(--delogis-white);
+}
+
+.services-five__single__icon,
+.blog-four__single__date {
+  border-color: var(--delogis-primary);
+}
+
+.why-choose-five__image {
+  border-color: var(--delogis-black);
+}
+
+.services-five__single,
+.feature-six__single,
+.about-six__image__logo,
+.about-six__counter li + li,
+.about-six__counter,
+.services-five__text,
+.testimonial-five__single__text,
+.testimonial-five__reviews__ratings,
+.why-choose-five__box li + li {
+  border-color: rgba(var(--delogis-white-rgb), 0.1);
+}
+
+.video-section__btn {
+  background-color: rgba(var(--delogis-black-rgb), 0.28);
+}
+
+.about-six__bg {
+  opacity: 0.5;
+}
+
+/*  */

@@ -1,0 +1,117 @@
+@font-face {
+  font-family: 'delogis-icons-two';
+  src:  url('fonts/delogis-icons-two64c8.eot?moypmk');
+  src:  url('fonts/delogis-icons-two64c8.eot?moypmk#iefix') format('embedded-opentype'),
+    url('fonts/delogis-icons-two64c8.ttf?moypmk') format('truetype'),
+    url('fonts/delogis-icons-two64c8.woff?moypmk') format('woff'),
+    url('fonts/delogis-icons-two64c8.svg?moypmk#delogis-icons-two') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="delogis-icons-two-"], [class*=" delogis-icons-two-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'delogis-icons-two' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.delogis-icons-two-brain:before {
+  content: "\e900";
+}
+.delogis-icons-two-call:before {
+  content: "\e901";
+}
+.delogis-icons-two-case-study:before {
+  content: "\e902";
+}
+.delogis-icons-two-check:before {
+  content: "\e903";
+}
+.delogis-icons-two-chroven-left:before {
+  content: "\e904";
+}
+.delogis-icons-two-chroven-right:before {
+  content: "\e905";
+}
+.delogis-icons-two-comment:before {
+  content: "\e906";
+}
+.delogis-icons-two-costumer:before {
+  content: "\e907";
+}
+.delogis-icons-two-expertise:before {
+  content: "\e908";
+}
+.delogis-icons-two-family:before {
+  content: "\e909";
+}
+.delogis-icons-two-heart:before {
+  content: "\e90a";
+}
+.delogis-icons-two-high-five:before {
+  content: "\e90b";
+}
+.delogis-icons-two-kids:before {
+  content: "\e90c";
+}
+.delogis-icons-two-left-arrow:before {
+  content: "\e90d";
+}
+.delogis-icons-two-right-arrow:before {
+  content: "\e90e";
+}
+.delogis-icons-two-up-arrow:before {
+  content: "\e90f";
+}
+.delogis-icons-two-down-arrow:before {
+  content: "\e910";
+}
+.delogis-icons-two-mind:before {
+  content: "\e911";
+}
+.delogis-icons-two-online-business:before {
+  content: "\e912";
+}
+.delogis-icons-two-phone-call:before {
+  content: "\e913";
+}
+.delogis-icons-two-ping:before {
+  content: "\e914";
+}
+.delogis-icons-two-play:before {
+  content: "\e915";
+}
+.delogis-icons-two-plus:before {
+  content: "\e916";
+}
+.delogis-icons-two-psychologist:before {
+  content: "\e917";
+}
+.delogis-icons-two-quote:before {
+  content: "\e918";
+}
+.delogis-icons-two-self-confidence:before {
+  content: "\e919";
+}
+.delogis-icons-two-stress-relief:before {
+  content: "\e91a";
+}
+.delogis-icons-two-suitcase:before {
+  content: "\e91b";
+}
+.delogis-icons-two-telephone-call:before {
+  content: "\e91c";
+}
+.delogis-icons-two-therapy:before {
+  content: "\e91d";
+}
